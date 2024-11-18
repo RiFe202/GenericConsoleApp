@@ -1,0 +1,14 @@
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\bin\Debug\net8.0\GenericConsoleApp.exe
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\bin\Debug\net8.0\GenericConsoleApp.deps.json
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\bin\Debug\net8.0\GenericConsoleApp.runtimeconfig.json
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\bin\Debug\net8.0\GenericConsoleApp.dll
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\bin\Debug\net8.0\GenericConsoleApp.pdb
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\obj\Debug\net8.0\GenericConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\obj\Debug\net8.0\GenericConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\obj\Debug\net8.0\GenericConsoleApp.AssemblyInfo.cs
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\obj\Debug\net8.0\GenericConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\obj\Debug\net8.0\GenericConsoleApp.dll
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\obj\Debug\net8.0\refint\GenericConsoleApp.dll
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\obj\Debug\net8.0\GenericConsoleApp.pdb
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\obj\Debug\net8.0\GenericConsoleApp.genruntimeconfig.cache
+C:\Users\ericl\Desktop\Prosjekter\GenericConsoleApp\obj\Debug\net8.0\ref\GenericConsoleApp.dll
